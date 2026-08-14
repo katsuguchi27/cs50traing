@@ -1,0 +1,43 @@
+h1
+{
+    text-align: center;
+}
+h2
+{
+    text-align: center;
+}
+.alarm
+{
+    color:red;
+}
+#form1
+{
+    left: 50%;
+    font-size: 1px;
+    position: fixed;
+    bottom: 20px; 
+}
+.text1
+{
+    margin-top: 50px;
+    font-size: 16px;
+}
+#link1
+{
+    color:black;
+    text-decoration: none;
+}
+.but1
+{
+    margin-top: 50px;
+    font-size: 16px;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+}
+#finish
+{
+    margin-top: 20%;
+    position: fixed;
+}
